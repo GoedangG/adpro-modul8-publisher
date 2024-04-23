@@ -18,3 +18,7 @@ Spike terjadi ketika kita melakukan `cargo run` pada `publisher`, hal ini dikare
 ##### Simulation Slow Subscribers
 Saya melakukan `cargo run` berkali-kali sehingga terjadi spike
 <img src = "static/slow.png">
+
+##### Monitoring
+Saya melakukan `cargo run` dengan adanya jeda kali ini, sehingga spike dapat berkurang dengan cepat
+<img src = "static/quicker.png">
