@@ -14,3 +14,7 @@
 ##### Processing Event
 Spike terjadi ketika kita melakukan `cargo run` pada `publisher`, hal ini dikarenakan `publisher` mengirimkan data ke message broker dan `subscriber` menerima data tersebut.
 <img src = "static/processing event.png">
+
+##### Simulation Slow Subscribers
+Saya melakukan `cargo run` berkali-kali sehingga terjadi spike
+<img src = "static/slow.png">
